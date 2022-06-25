@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\RAM\.gradle\caches\transforms-3\4cc64512fbeb8e693d13ea259c1debf9\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\RAM\.gradle\caches\transforms-3\7ce148511299fa8960e04e988d1990cf\transformed\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\fdf1adeb0e32829c095adcc62b9c8b17\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\cc0e3934aefea6e8475c7f0821bd95b9\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\911560ab509d987f7b37d245fea0c205\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\4109acc4a5412af0b4d769afebe5d6d1\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\35662e1723d99767fa50d92c1882148a\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\896a4f7b9030f6668a9b600c06794d2f\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\fb57246e0eee662b8f70c4f080fdb9a5\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\14b680d27717bece700feb2c6f76fd5c\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\e7943d09d24256415fd363fa024067cc\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\41b9863687e7571cf16bd090d021354f\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\ebbd345734d01de9ac220298a65b3332\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\40b7ae5a814e48eeb189204610245711\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\3052b8ecc16cca7f76cdaa51b420daf0\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\0b91472d72e8742c7f79293393facf47\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\49c5ca6cb45d3503d5291962e9960b43\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\491012bf88580b96fe27805f12bb6b2c\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\f55161fbdd6b9bac364ec4dfb55d44d4\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\RAM\.gradle\caches\transforms-3\aa6f6255154770102cff3375f2cf1b58\transformed\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\8c38d20481f28a17bf34851e87d09c49\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAM\.gradle\caches\transforms-3\ebb79463bb7a527823e117ed97ac6558\transformed\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RAM\.gradle\caches\transforms-3\57acb7874a3a9e93dac8a26a2a2d6019\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RAM\.gradle\caches\transforms-3\78d2c950a87f2cbdf6b9689158671e25\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\fe1592ce3056ca470e0399eb6d9bd879\transformed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\69e88d08f586aef8ce85d2d8d6cf4518\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\d2936022a5815e70eb5d8e150bd759ec\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\a9b428e9a335faf8916ee644f433b29c\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\c8b696a8a91af95ee60a13f2d53234de\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\e4fb049e4e1cd33167cf26067d5f15e3\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\76b58420d7a1fa6adca5131a0613dbdb\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\ccb946b8fbeab096a38c77a9fbfe717d\transformed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\a20a73c6fcfa6a9b63b4b8e40c1b2b38\transformed\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:5:2-26
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:4:2-48
+	android:versionCode
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:3:2-60
+application
+ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:6:2-28:16
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\RAM\.gradle\caches\transforms-3\4cc64512fbeb8e693d13ea259c1debf9\transformed\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\RAM\.gradle\caches\transforms-3\4cc64512fbeb8e693d13ea259c1debf9\transformed\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\RAM\.gradle\caches\transforms-3\7ce148511299fa8960e04e988d1990cf\transformed\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\RAM\.gradle\caches\transforms-3\7ce148511299fa8960e04e988d1990cf\transformed\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\RAM\.gradle\caches\transforms-3\aa6f6255154770102cff3375f2cf1b58\transformed\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\RAM\.gradle\caches\transforms-3\aa6f6255154770102cff3375f2cf1b58\transformed\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAM\.gradle\caches\transforms-3\ebb79463bb7a527823e117ed97ac6558\transformed\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAM\.gradle\caches\transforms-3\ebb79463bb7a527823e117ed97ac6558\transformed\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\RAM\.gradle\caches\transforms-3\aa6f6255154770102cff3375f2cf1b58\transformed\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:9:3-35
+	android:icon
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:8:3-36
+	android:allowBackup
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:7:3-29
+	android:theme
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:11:3-34
+	android:usesCleartextTraffic
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:10:3-38
+activity#odia.calen.ett.MainActivity
+ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:12:3-23:14
+	android:hardwareAccelerated
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:15:4-38
+	android:windowSoftInputMode
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:18:4-45
+	android:exported
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:17:4-27
+	android:supportsPictureInPicture
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:16:4-43
+	android:configChanges
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:14:4-97
+	android:name
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:13:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:19:4-22:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:20:5-57
+	android:name
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:20:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:21:15-62
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:25:3-27:31
+	android:required
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:27:4-28
+	android:name
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml:26:4-41
+uses-sdk
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\RAM\.gradle\caches\transforms-3\4cc64512fbeb8e693d13ea259c1debf9\transformed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\RAM\.gradle\caches\transforms-3\4cc64512fbeb8e693d13ea259c1debf9\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\RAM\.gradle\caches\transforms-3\7ce148511299fa8960e04e988d1990cf\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\RAM\.gradle\caches\transforms-3\7ce148511299fa8960e04e988d1990cf\transformed\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\fdf1adeb0e32829c095adcc62b9c8b17\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\fdf1adeb0e32829c095adcc62b9c8b17\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\cc0e3934aefea6e8475c7f0821bd95b9\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\cc0e3934aefea6e8475c7f0821bd95b9\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\911560ab509d987f7b37d245fea0c205\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\911560ab509d987f7b37d245fea0c205\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\4109acc4a5412af0b4d769afebe5d6d1\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\4109acc4a5412af0b4d769afebe5d6d1\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\35662e1723d99767fa50d92c1882148a\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\35662e1723d99767fa50d92c1882148a\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\896a4f7b9030f6668a9b600c06794d2f\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\896a4f7b9030f6668a9b600c06794d2f\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\fb57246e0eee662b8f70c4f080fdb9a5\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\fb57246e0eee662b8f70c4f080fdb9a5\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\14b680d27717bece700feb2c6f76fd5c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\14b680d27717bece700feb2c6f76fd5c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\e7943d09d24256415fd363fa024067cc\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\RAM\.gradle\caches\transforms-3\e7943d09d24256415fd363fa024067cc\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\41b9863687e7571cf16bd090d021354f\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\41b9863687e7571cf16bd090d021354f\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\ebbd345734d01de9ac220298a65b3332\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\ebbd345734d01de9ac220298a65b3332\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\40b7ae5a814e48eeb189204610245711\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\40b7ae5a814e48eeb189204610245711\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\3052b8ecc16cca7f76cdaa51b420daf0\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\3052b8ecc16cca7f76cdaa51b420daf0\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\0b91472d72e8742c7f79293393facf47\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\0b91472d72e8742c7f79293393facf47\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\49c5ca6cb45d3503d5291962e9960b43\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\49c5ca6cb45d3503d5291962e9960b43\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\491012bf88580b96fe27805f12bb6b2c\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\RAM\.gradle\caches\transforms-3\491012bf88580b96fe27805f12bb6b2c\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\f55161fbdd6b9bac364ec4dfb55d44d4\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\f55161fbdd6b9bac364ec4dfb55d44d4\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\RAM\.gradle\caches\transforms-3\aa6f6255154770102cff3375f2cf1b58\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\RAM\.gradle\caches\transforms-3\aa6f6255154770102cff3375f2cf1b58\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\8c38d20481f28a17bf34851e87d09c49\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\8c38d20481f28a17bf34851e87d09c49\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAM\.gradle\caches\transforms-3\ebb79463bb7a527823e117ed97ac6558\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\RAM\.gradle\caches\transforms-3\ebb79463bb7a527823e117ed97ac6558\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RAM\.gradle\caches\transforms-3\57acb7874a3a9e93dac8a26a2a2d6019\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RAM\.gradle\caches\transforms-3\57acb7874a3a9e93dac8a26a2a2d6019\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RAM\.gradle\caches\transforms-3\78d2c950a87f2cbdf6b9689158671e25\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RAM\.gradle\caches\transforms-3\78d2c950a87f2cbdf6b9689158671e25\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\fe1592ce3056ca470e0399eb6d9bd879\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\fe1592ce3056ca470e0399eb6d9bd879\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\69e88d08f586aef8ce85d2d8d6cf4518\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\69e88d08f586aef8ce85d2d8d6cf4518\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\d2936022a5815e70eb5d8e150bd759ec\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\d2936022a5815e70eb5d8e150bd759ec\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\a9b428e9a335faf8916ee644f433b29c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\a9b428e9a335faf8916ee644f433b29c\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\c8b696a8a91af95ee60a13f2d53234de\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\c8b696a8a91af95ee60a13f2d53234de\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\e4fb049e4e1cd33167cf26067d5f15e3\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\e4fb049e4e1cd33167cf26067d5f15e3\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\76b58420d7a1fa6adca5131a0613dbdb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\76b58420d7a1fa6adca5131a0613dbdb\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\ccb946b8fbeab096a38c77a9fbfe717d\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RAM\.gradle\caches\transforms-3\ccb946b8fbeab096a38c77a9fbfe717d\transformed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\a20a73c6fcfa6a9b63b4b8e40c1b2b38\transformed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\RAM\.gradle\caches\transforms-3\a20a73c6fcfa6a9b63b4b8e40c1b2b38\transformed\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAM\Desktop\Odia Calender\app\src\main\AndroidManifest.xml
